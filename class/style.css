@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.border-img {
+  border: 5px solid #000;
+}
+
+.thumbnail-img {
+  width: 100px;
+  height: 100px;
+}
+
+.float-img {
+  float: right;
+  margin-left: 15px;
+  width: 200px; /* optional width */
+}
+
+.spaced-img {
+  margin: 50px;
+}
